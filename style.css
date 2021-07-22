@@ -65,7 +65,7 @@ h1 {
 .p_s {
     width: 100px;
     height: 3px;
-    background-color: rgba(255, 15, 15, 0.89)
+    background-color: #f00;
 }
 .p_m {
     width: 120px;
